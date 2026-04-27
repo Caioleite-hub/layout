@@ -1,11 +1,14 @@
-body{
-    background-color: rgb(129, 129, 255);
+.purple{
+    background-color: purple;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+.blue{
+    background-color: blue;
+    padding: 20px;
+    margin: 30px;
 }
 .yo{
-    padding: 50;
-    margin: 20;
-    background-color: rgb(255, 255, 119);
-}
-.flex{
-    display: flex;
+    padding: 50px;
 }
